@@ -1,5 +1,4 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Hello
 
 - 🔭 I’m a data analyst
 - 👯 I’m looking to collaborate on everything about research/data analysis
