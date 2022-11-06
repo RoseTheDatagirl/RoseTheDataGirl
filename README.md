@@ -1,10 +1,8 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my skill in data science
-- 🌱 I’m currently working as a data analyst
-- 👯 I’m looking to collaborate on everything about data science
-- 💬 Ask me about my data analysis journey
-- 📫 How to reach me https://www.linkedin.com/in/adekunle-t-1060051a5/
+- 🔭 I’m a data analyst
+- 👯 I’m looking to collaborate on everything about research/data analysis
+- 📫 Reach me via rosethedataanalyst@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: In all things, I see data
